@@ -34,8 +34,8 @@ Before installing the application, ensure you have the following:
 1. Clone the repository or download the source code:
 
 ```bash
-git clone https://github.com/yourusername/strava-cr-app.git
-cd strava-cr-app
+git clone [https://github.com/yourusername/strava-cr-app.git](https://github.com/masj3107/Strava_CR_Hunt)
+cd Strava_CR_Hunt
 ```
 
 2. Install the required dependencies:
